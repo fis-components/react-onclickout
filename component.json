@@ -1,0 +1,13 @@
+{
+    "name": "react-onclickout",
+    "description": "An ES6-friendly on-click-outside React component.",
+    "repos": "https://github.com/boblauer/react-onclickout.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "react": ">=0.14",
+        "react-dom": ">=0.14"
+    },
+    "version": "2.0.4"
+}
